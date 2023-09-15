@@ -1,0 +1,107 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_tokenAddress",
+						"type": "address"
+					},
+					{
+						"internalType": "address",
+						"name": "_sender",
+						"type": "address"
+					},
+					{
+						"internalType": "address",
+						"name": "_receipient",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "fee",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_value",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_deadline",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint8",
+						"name": "v",
+						"type": "uint8"
+					},
+					{
+						"internalType": "bytes32",
+						"name": "r",
+						"type": "bytes32"
+					},
+					{
+						"internalType": "bytes32",
+						"name": "s",
+						"type": "bytes32"
+					}
+				],
+				"name": "sendToken",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Gas-less Token Transfer/GasFree..sol": "GasFreeTransfer"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Gas-less Token Transfer/GasFree..sol": {
+			"keccak256": "0x867b25917e7bb52c1cf3d2d80fe15c1b88cd3900a42a347a0bb0d2e884ed747c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7ba5af6d001da2e1339b309b8e155d1a6f9ea5e25a6b4e6e69d4503a45e6595f",
+				"dweb:/ipfs/QmWVkTdxJzt6Pzbwj6N6qtRi9FFSd1N6jYezW3SAsufPFh"
+			]
+		},
+		"Gas-less Token Transfer/IERC20Permit.sol": {
+			"keccak256": "0x489d5df2ec209812e6df60045f0f2422999f700005870e502192de1d1f8965e1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ed85908d466e6ac2b20d28520e5fde439398de12007fe997fde2bde8ec2a5886",
+				"dweb:/ipfs/QmXFG2iQRvoHYjEYoY4AJVoscyF1viERYaz1jT2U7wH2ip"
+			]
+		}
+	},
+	"version": 1
+}

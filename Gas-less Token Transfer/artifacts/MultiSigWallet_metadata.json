@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"MerkleProof.sol": "MultiSigWallet"
+			"Gas-less Token Transfer/IERC20Permit.sol": "MultiSigWallet"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"MerkleProof.sol": {
-			"keccak256": "0xc1c84f5af0c11718dbb517d90c8409dc3448791400f7768c7813eb306ec5aea2",
+		"Gas-less Token Transfer/IERC20Permit.sol": {
+			"keccak256": "0x7e165df183ce5fccf021050b17ede4a105600d378de8e0e342679f1f3013d758",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c90d0197c96615bf5d12274db7427aed0aa34e38a0d0505a8ae88777d92efc61",
-				"dweb:/ipfs/Qme2TYeSHgRVNgK6j6HExn8ZaV6rQnggXNH4LtaQVoyvxq"
+				"bzz-raw://336bfbd8553baa28bde80950b5d5c60a354fc3c5ec765c43981d78c5960fdf45",
+				"dweb:/ipfs/QmTA5nSRBDqqrh7E8hFemztNzqAgqEW6Dyz38UDSmubvP4"
 			]
 		}
 	},

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Gas-less Token Transfer/firstArrayLibrary.sol": "ArrayLibrary"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Gas-less Token Transfer/firstArrayLibrary.sol": {
+			"keccak256": "0x5e66508d7b26848b215d7ec5f5aaa0ea51769c8150bb0725587f612171a14b80",
+			"license": "AGPL-3.0-only",
+			"urls": [
+				"bzz-raw://6bc26d272b1d28b42d864c6ae0486c6e48cf2b83c2cb8242bf9c337438eb7389",
+				"dweb:/ipfs/QmaaLmpbZtAmqHRRwYBM6UH7SZ9g5zGo7rwX98bQ4bSwHC"
+			]
+		}
+	},
+	"version": 1
+}

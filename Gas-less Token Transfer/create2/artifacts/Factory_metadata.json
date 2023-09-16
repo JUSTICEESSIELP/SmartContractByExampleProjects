@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Gas-less Token Transfer/create2/PreDeterminedContractAddress.sol": "Factory"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Gas-less Token Transfer/create2/PreDeterminedContractAddress.sol": {
+			"keccak256": "0x213dda4ed6947ffd8e58a09446b51c3803f85f1953322ee3356f01a10540714e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6af7d81c1f3e10cccea1d0d1618ab34a4fcdcbe6b93c90a69c09c6224cd2d493",
+				"dweb:/ipfs/QmRRmnubqL12bka3eq81d88PCxDZ715BD1dg7AGX6v5o2G"
+			]
+		}
+	},
+	"version": 1
+}

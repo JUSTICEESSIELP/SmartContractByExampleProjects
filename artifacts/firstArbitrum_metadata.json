@@ -1,0 +1,80 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getThePrice",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"firstArbitrum.sol": "firstArbitrum"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol": {
+			"keccak256": "0x6e6e4b0835904509406b070ee173b5bc8f677c19421b76be38aea3b1b3d30846",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b3beaa37ee61e4ab615e250fbf01601ae481de843fd0ef55e6b44fd9d5fff8a7",
+				"dweb:/ipfs/QmeZUVwd26LzK4Mfp8Zba5JbQNkZFfTzFu1A6FVMMZDg9c"
+			]
+		},
+		"@chainlink/contracts/src/v0.8/interfaces/FlagsInterface.sol": {
+			"keccak256": "0x1c43c08e51038f968848bc7823233b01c931b33f43d71eb3d81b8d37087b3ca5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://939e6423f502f562459e96b4d8a1ad1ba33c631c0eea6903a2f0070d5aaaa4d7",
+				"dweb:/ipfs/QmXSbPpAW3NH9T9hRygc3EMnDR5LBCwEcSDGFwXmMQZwTX"
+			]
+		},
+		"firstArbitrum.sol": {
+			"keccak256": "0x6c992c0cc09b4953c24b7d40251e0d3453ffa4313acab1ce64fcf7d6be1352a8",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://792c909b02b99c613dfe43b12fab9b7f54843a85b8275759ee3f2f4fdb8363af",
+				"dweb:/ipfs/QmS6p6za8GBV37LT6TbBYnEN1NZMaRLGmYi26c4Y2i4E7r"
+			]
+		}
+	},
+	"version": 1
+}
